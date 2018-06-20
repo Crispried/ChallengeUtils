@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIElements.TimeAxis", "UIElements.TimeAxis\UIElements.TimeAxis.csproj", "{8C5A749F-AF12-4147-AA5B-8BC9D98AB312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIElements.Marker", "UIElements.Marker\UIElements.Marker.csproj", "{4E2A0118-0EFD-4627-89CA-6F25D7B68A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C5A749F-AF12-4147-AA5B-8BC9D98AB312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5A749F-AF12-4147-AA5B-8BC9D98AB312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5A749F-AF12-4147-AA5B-8BC9D98AB312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5A749F-AF12-4147-AA5B-8BC9D98AB312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E2A0118-0EFD-4627-89CA-6F25D7B68A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2A0118-0EFD-4627-89CA-6F25D7B68A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2A0118-0EFD-4627-89CA-6F25D7B68A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2A0118-0EFD-4627-89CA-6F25D7B68A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
